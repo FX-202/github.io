@@ -1,0 +1,10 @@
+<!-- index.html 示例 -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>微博API应用验证页</title>
+</head>
+<body>
+    <h1>此页面用于微博开放平台API验证</h1>
+</body>
+</html>
